@@ -2,3 +2,4 @@
 *.nbconvert.ipynb
 MG5*
 data/
+logs/
