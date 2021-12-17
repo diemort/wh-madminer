@@ -14,3 +14,7 @@ The analysis proceeds in several steps:
 * Computation of the Fisher Information using the SALLY estimators or in histograms.
 
 Additional files for estimating limits on the squared terms, or using the HARRY setup, require a different branch of MadMiner. Notebooks for computing the limits in this branch will be added at a later date, or are available upon request. 
+
+PS added by GGS:
+
+For branch `version-0.5`, install `madminer` via pip for version 0.5 to avoid conflicts in newer version.
