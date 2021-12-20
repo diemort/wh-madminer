@@ -1,2 +1,6 @@
 .ipynb_checkpoints
+*.nbconvert.ipynb
 MG5*
+data/
+logs/
+signal_samples/
